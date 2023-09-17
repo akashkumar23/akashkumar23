@@ -5,7 +5,7 @@
 <h3 align="center">I am from India</h3>
 <h3 align="center">🚀 Full Stack Developer | MERN Specialist  ⚛🔥 | Building Web Solutions with Passion 💻 | Let's create amazing experiences together!🌐✨ #WebDev #MERNStack</h3>
 
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
+<img align="right" alt="Coding" width="150" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumar23" /> </p>
 
