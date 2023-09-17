@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate web developer & Competitive Programmer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhlZHMzZmVsazJjdHMwaXVtZjlwdXNhYjUxbzVhbzQ2MjFrOWJ6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumar23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumar23" alt="akashkumar23" /></a> </p>
